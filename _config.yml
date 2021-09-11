@@ -14,11 +14,10 @@ keep_files:
 
 
 # Site settings
-title: Airspace
+title: Energao
 subtitle: "A free HTML5 agency template"
-url: "https://luminousrubyist.github.io/" # the base hostname & protocol for your site
-# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/airspace-jekyll"
+url: "https://energao.github.io/" # the base hostname & protocol for your site
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
@@ -29,9 +28,9 @@ markdown: kramdown
 # ga_tracking_id: "UA-XXXX-1"
 
 # Category descriptions (for archive pages)
-descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+# descriptions:
+#   - cat: jekyll
+#     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+#   - cat: dummy
+#     desc: "Just some placeholder posts, lorem ipsum and the rest."
